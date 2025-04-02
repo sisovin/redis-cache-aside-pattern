@@ -1,2 +1,1 @@
-# redis-cache-aside-pattern
-A repository for implementing the Cache Aside Pattern
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
